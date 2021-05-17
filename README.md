@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ¡Hola! Soy Jesús García 👋
+
+Soy un desarrollador de back-end proveniente del estado de Guanajuato(México). Actualmente me desempeño desarrollando APIs y web services en NodeJS.
+
+## Puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9)
+- [Instagram](https://www.instagram.com/jesus.gr.zr/)
