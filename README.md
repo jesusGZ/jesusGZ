@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ¡Hola! Soy Jesús García 👋
-
 Soy un desarrollador de back-end proveniente del estado de Guanajuato(México). Actualmente me desempeño desarrollando APIs y web services en NodeJS.
 
 ## Puedes encontrarme en:
