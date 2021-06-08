@@ -20,7 +20,6 @@ Soy un desarrollador de back-end proveniente del estado de Guanajuato(México). 
 - [LinkedIn](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9)
 - [Instagram](https://www.instagram.com/jesus.gr.zr/)
 
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ&layout=compact)](https://github.com/jesusGZ/github-readme-stats)
 
 [![jesusGZ GitHub estadísticas](https://github-readme-stats.vercel.app/api?username=jesusGZ&theme=tokyonight)](https://github.com/jesusGZ/github-readme-stats)
-
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ&layout=compact)](https://github.com/jesusGZ/github-readme-stats)
