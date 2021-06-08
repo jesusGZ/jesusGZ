@@ -21,6 +21,6 @@ Soy un desarrollador de back-end proveniente del estado de Guanajuato(México). 
 - [Instagram](https://www.instagram.com/jesus.gr.zr/)
 
 
-[![jesusGZ GitHub stats](https://github-readme-stats.vercel.app/api?username=jesusGZ&theme=tokyonight)](https://github.com/jesusGZ/github-readme-stats)
+[![jesusGZ GitHub estadísticas](https://github-readme-stats.vercel.app/api?username=jesusGZ&theme=tokyonight)](https://github.com/jesusGZ/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ&layout=compact)](https://github.com/jesusGZ/github-readme-stats
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ&layout=compact)](https://github.com/jesusGZ/github-readme-stats)
