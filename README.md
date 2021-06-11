@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 ## Puedes encontrarme en:
 
-- [LinkedIn](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9)
-- [Instagram](https://www.instagram.com/jesus.gr.zr/)
+| [<img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedIn logo" width="35">](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9) | [<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instagram logo" width="30">](https://www.instagram.com/jesus.gr.zr/) |
 
 ### Lenguajes de programación 🌐
 
