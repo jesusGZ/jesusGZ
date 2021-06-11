@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 
 ### Herramientas 🛠️
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |
+| [<img src="https://raw.githubusercontent.com/jesusGZ/jesusGZ/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/jesusGZ/jesusGZ/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) |
 
 - Aprendiendo
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | 
+| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/jesusGZ/jesusGZ/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | 
 
 [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ&layout=compact)](https://github.com/jesusGZ/github-readme-stats)
 
