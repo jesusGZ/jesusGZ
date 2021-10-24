@@ -1,45 +1,51 @@
-<!--
-**jesusGZ/jesusGZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Puedes encontrarme en: [<img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedIn logo" width="35">](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9)  [<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instagram logo" width="30">](https://www.instagram.com/jesus.gr.zr/) 
 
-Here are some ideas to get you started:
+```javascript
+const info = {
+    pronouns: "He" | "Him",
+    hobbies: ["play soccer", "play videogames", "listen to music ", "technology", "drive motorcycles", to travel],
+    askMeAbout: ["backend dev"],
+    aboutMe: "Soy un desarrollador de back-end proveniente del estado de Guanajuato(México). 
+    Actualmente me desempeño desarrollando APIs y web services en NodeJS.",
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
- Soy un desarrollador de back-end proveniente del estado de Guanajuato(México). Actualmente me desempeño desarrollando APIs y web services en NodeJS.
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Lenguajes de programación 🌐
 
-## Puedes encontrarme en:
+<br />
 
-| [<img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedIn logo" width="35">](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9) | [<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instagram logo" width="30">](https://www.instagram.com/jesus.gr.zr/) |
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) <br />
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 
-### Lenguajes de programación 🌐
-
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js logo" width="24">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) |  [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php logo" width="30">](https://www.php.net/)|
 
 - Aprendiendo
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="ts logo" width="24">](https://www.typescriptlang.org/) | [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="30">](https://www.rust-lang.org/) |
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
-### Bases de datos
+## Bases de datos
 
-| [<img src="http://pngimg.com/uploads/mysql/mysql_PNG6.png" alt="mysql logo" width="44">](https://www.mysql.com/) | [<img src="https://img.icons8.com/color/452/postgreesql.png" alt="postgresql logo" width="30">](https://www.postgresql.org/) | [<img src="https://img.icons8.com/color/452/mongodb.png" alt="mongoDB logo" width="30">](https://www.mongodb.com/) |
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
+![MySql](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
+## Herramientas 🛠️
 
-### Herramientas 🛠️
-
-| [<img src="https://raw.githubusercontent.com/jesusGZ/jesusGZ/master/img/git.png" alt="git logo" width="24">](https://git-scm.com/) | [<img src="https://raw.githubusercontent.com/jesusGZ/jesusGZ/master/img/vscode.png" alt="vscode logo" width="24">](https://code.visualstudio.com/) | [<img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="postman logo" width="24">](https://www.postman.com/) | [<img src="https://static.surveysparrow.com/site/assets/integrations/inner/slack.png" alt="slack logo" width="24">](https://slack.com/intl/es-mx/media-kit) | [<img src="https://logos-world.net/wp-content/uploads/2021/02/Trello-Emblem.png" alt="trello logo" width="44">](https://trello.com/es) | [<img src="https://midu.dev/images/tags/node.png" alt="nodeJS logo" width="34">]() | [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="laravel logo" width="30">]() |
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) <br />
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
 
 - Aprendiendo
 
-| [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo" width="24">](https://www.docker.com/) | [<img src="https://raw.githubusercontent.com/jesusGZ/jesusGZ/master/img/aws.png" alt="aws logo" width="24">](https://aws.amazon.com/) | 
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
 
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ&layout=compact)](https://github.com/jesusGZ/github-readme-stats)
+## Estadisticas de Github
 
-[![jesusGZ GitHub estadísticas](https://github-readme-stats.vercel.app/api?username=jesusGZ&theme=tokyonight)](https://github.com/jesusGZ/github-readme-stats)
+<img align="left" alt="Estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=jesusGZ" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ)](https://github.com/anuraghazra/github-readme-stats) 
