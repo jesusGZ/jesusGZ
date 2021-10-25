@@ -12,22 +12,21 @@ const info = {
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Lenguajes de programación 🌐
+## Lenguajes de programación <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
 <br />
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) <br />
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++) 
 
 
 - Aprendiendo
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript) 
 
-## Bases de datos
+## Bases de datos 🌐
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql)
@@ -35,15 +34,19 @@ const info = {
 
 ## Herramientas 🛠️
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) 
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
-![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) <br />
-![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman)
+![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) 
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) 
+![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack) 
+![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello) 
 
 - Aprendiendo
 
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
+![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs) 
+![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize) 
 
 ## Estadisticas de Github
 
