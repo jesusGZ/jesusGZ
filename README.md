@@ -52,3 +52,11 @@ const info = {
 
 <img align="left" alt="Estadisticas de Github" src="https://github-readme-stats.vercel.app/api?username=jesusGZ" />    &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusGZ)](https://github.com/anuraghazra/github-readme-stats) 
+
+<div> 
+  <!-- 
+-->
+  
+ 
+ ![Snake animation](https://github.com/jesusGZ/pedrohti/blob/output/github-contribution-grid-snake.svg)
+</div>
