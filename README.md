@@ -18,13 +18,13 @@ const info = {
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c++) 
+![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php) 
 
 
 - Aprendiendo
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript) 
+![Go](https://img.shields.io/badge/-GoLand-000000?style=flat&logo=go) 
 
 ## Bases de datos 🌐
 
@@ -37,6 +37,7 @@ const info = {
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) 
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
 ![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js) 
+![Npm](https://img.shields.io/badge/-Npm-000000?style=flat&logo=npm) 
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel) 
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) 
 ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack) 
@@ -46,7 +47,15 @@ const info = {
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
 ![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs) 
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
 ![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize) 
+
+## Sistemas Operativos
+
+![Linux Server](https://img.shields.io/badge/-LinuxServer-000000?style=flat&logo=linux) 
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000000?style=flat&logo=ubuntu) 
+![Mac OS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=macos) 
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows) 
 
 ## Estadisticas de Github
 
