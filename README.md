@@ -1,4 +1,4 @@
-## Puedes encontrarme en: [<img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedIn logo" width="35">](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9)  [<img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instagram logo" width="30">](https://www.instagram.com/jesus.gr.zr/) 
+## Puedes encontrarme en: [<img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedIn logo" width="35">](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9) 
 
 ```javascript
 const info = {
@@ -17,7 +17,6 @@ const info = {
 <br />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php) 
 
 
@@ -48,7 +47,6 @@ const info = {
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
 ![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs) 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
-![Sequelize](https://img.shields.io/badge/-Sequelize-000000?style=flat&logo=sequelize) 
 
 ## Sistemas Operativos
 
