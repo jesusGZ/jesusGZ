@@ -41,12 +41,13 @@ const info = {
 ![Postman](https://img.shields.io/badge/-Postman-000000?style=flat&logo=postman) 
 ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack) 
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello) 
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
 
 - Aprendiendo
 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
 ![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs) 
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=nextjs) 
 
 ## Sistemas Operativos
 
