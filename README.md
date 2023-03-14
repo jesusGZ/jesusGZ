@@ -42,10 +42,11 @@ const info = {
 ![Slack](https://img.shields.io/badge/-Slack-000000?style=flat&logo=slack) 
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello) 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
 
 - Aprendiendo
 
-![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
+![React Native](https://img.shields.io/badge/-React%20native-000000?style=flat&logo=react) 
 ![NestJs](https://img.shields.io/badge/-NestJs-000000?style=flat&logo=nestjs) 
 ![NextJs](https://img.shields.io/badge/-NextJs-000000?style=flat&logo=nextjs) 
 
