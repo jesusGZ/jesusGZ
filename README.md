@@ -43,6 +43,7 @@ const info = {
 ![Trello](https://img.shields.io/badge/-Trello-000000?style=flat&logo=trello) 
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react) 
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker) 
+![Capacitor](https://img.shields.io/badge/-Capacitor-000000?style=flat&logo=capacitor) 
 
 - Aprendiendo
 
