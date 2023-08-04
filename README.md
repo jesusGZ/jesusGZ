@@ -1,15 +1,5 @@
 ## Puedes encontrarme en: [<img src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" alt="linkedIn logo" width="35">](https://www.linkedin.com/in/jesús-antonio-garcía-zurita-85b3941a9) 
 
-```javascript
-const info = {
-    pronouns: "He" | "Him",
-    hobbies: ["play soccer", "play videogames", "listen to music ", "technology", "drive motorcycles", to travel],
-    askMeAbout: ["backend dev"],
-    aboutMe: "Soy un desarrollador de back-end proveniente del estado de Guanajuato(México). 
-    Actualmente me desempeño desarrollando APIs y web services en NodeJS.",
-};
-```
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ## Lenguajes de programación <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
